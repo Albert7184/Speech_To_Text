@@ -1,0 +1,20 @@
+# Python bytecode (file rác khi chạy Python)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Môi trường ảo (Virtual Environments)
+venv/
+env/
+.env
+
+# File hệ thống
+.DS_Store
+Thumbs.db
+
+# Thư mục lưu trữ model AI (nếu bạn không muốn push hàng GB lên git)
+models/
+
+# File log hoặc tạm thời
+*.log
+.streamlit/
