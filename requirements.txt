@@ -6,3 +6,4 @@ soundfile
 numpy
 ffmpeg-python
 matplotlib
+streamlit-option-menu
